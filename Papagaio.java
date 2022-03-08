@@ -1,6 +1,6 @@
 
 
-public class Papagaio extends Ave {
+public class Papagaio extends Ave{
     @Override
     public String voar() {
         // TODO Auto-generated method stub
@@ -8,9 +8,10 @@ public class Papagaio extends Ave {
 
     }
     @Override
-    public String nadar() {
+    public String emitirsom() {
         // TODO Auto-generated method stub
-        return "Muito Mal";
+        return "ola seu bobo";
     }
+    
 
 }
